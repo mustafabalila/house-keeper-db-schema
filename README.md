@@ -1,5 +1,8 @@
 # DB Migrations
 
+## ERD
+![ERD](./ERD.png)
+
 This repository contains the [Flyway][flyway] migrations used to define house-keeper databases.
 
 ## Structure
