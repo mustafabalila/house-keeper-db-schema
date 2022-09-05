@@ -1,10 +1,10 @@
-# DB Migrations
+# DB Migrations for [house-keeper-backend](https://github.com/mustafabalila/house-keeper-backend)
 
 ## ERD
 ![ERD](./ERD.png)
 
 This repository contains the [Flyway][flyway] migrations used to define house-keeper databases.
-
+Credit for [executor.sh](./executor.sh) script & `init-db` goes to [Osama Adil](https://github.com/phr3nzy)
 ## Structure
 
 The migrations are organized into folders according to the database they belong to.
